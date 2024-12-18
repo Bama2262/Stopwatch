@@ -1,3 +1,2 @@
 # Stopwatch
-The program this time is a simple stopwatch program using the Python programming language, with help from "Bro Code", this program runs well. 
-The way he teaches is relaxed but everything is conveyed well and can be understood.
+This project is a GUI based Stopwatch using PyQt5 in Python. This clock allows users to track time with precision, displaying elapsed time in the format hours:minutes:seconds:milliseconds.
